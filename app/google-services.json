@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "267303198650",
+    "firebase_url": "https://cueclub-388a4.firebaseio.com",
+    "project_id": "cueclub-388a4",
+    "storage_bucket": "cueclub-388a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267303198650:android:bb4484454df19f10",
+        "android_client_info": {
+          "package_name": "com.maxxwarez.cueclub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267303198650-p1d6fcf5pitginvv7tf90l1rubkd2b18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maxxwarez.cueclub",
+            "certificate_hash": "cc69c754b45278ee2967a143e3b4ead273925901"
+          }
+        },
+        {
+          "client_id": "267303198650-l4vsct5fo96ui2458jkv4p75c5jh82cn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwJZT4bgSHqFMaCBUg4jKZ42tNEb6fTEk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267303198650-l4vsct5fo96ui2458jkv4p75c5jh82cn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
